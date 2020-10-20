@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ModeloJuego
+comment0.text=Esta\ clase\ es\ la\ encargada\ de\ las\ interacciones\ con\ respecto\ a\ los\ datos
+comment1.params=
+comment1.target=void\ CrearTablero()
+comment2.params=opcion\ filas\ columnas\ tablero
+comment2.target=void\ opcionJugador(int,\ int,\ int,\ java.lang.String[][])
+comment3.params=opcion2\ filas\ columnas\ tablero
+comment3.target=void\ opcionJugador2(int,\ int,\ int,\ java.lang.String[][])
+comment4.params=opcionMaq\ filas\ columnas\ tablero
+comment4.target=void\ opcionMaquina(int,\ int,\ int,\ java.lang.String[][])
+comment5.params=
+comment5.target=int\ comprobacionJugador()
+comment6.params=
+comment6.target=int\ comprobacionMaquina()
+comment7.params=
+comment7.target=int\ getFilas()
+comment8.params=
+comment8.target=int\ getColumnas()
+comment9.params=
+comment9.target=java.lang.String[][]\ getTablero()
+numComments=10

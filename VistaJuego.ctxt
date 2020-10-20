@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VistaJuego
+comment1.params=filas\ columnas\ tablero
+comment1.target=void\ MostrarTablero(int,\ int,\ java.lang.String[][])
+comment2.params=filas\ columnas\ tablero\ opcion
+comment2.target=int\ MostrarTableroOpcion(int,\ int,\ java.lang.String[][],\ int)
+comment3.params=numJugador
+comment3.target=int\ escogerJugadores(int)
+numComments=4
